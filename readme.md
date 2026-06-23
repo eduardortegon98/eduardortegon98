@@ -1,6 +1,6 @@
 # Hi, I'm Eduard 👋
 
-I'm a 27-year-old Full Stack Developer & AI Engineer from Colombia with 3+ years of experience building web applications, intelligent systems, and workflow automations.
+Full Stack Developer & AI Engineer from Colombia with 3+ years of experience building web applications, intelligent systems, and workflow automations.
 
 Currently working at **Confidential Company** — where I build the backend infrastructure and AI pipelines that power **AI Agents** and transform them at core of the company.
 
@@ -42,6 +42,14 @@ Currently working at **Confidential Company** — where I build the backend infr
 - Exploring RAG pipelines, vector embeddings, and LLM orchestration
 
 ---
+
+## 📊 GitHub Stats
+
+![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardortegon98&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardortegon98&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=eduardortegon98&theme=tokyonight&hide_border=true)
 
 ## 📫 Let's connect
 
