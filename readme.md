@@ -49,7 +49,7 @@ Currently working at **Confidential Company** — where I build the backend infr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardortegon98&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=eduardortegon98&theme=tokyonight&hide_border=true)
+![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardortegon98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ## 📫 Let's connect
 
