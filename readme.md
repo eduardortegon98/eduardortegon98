@@ -2,7 +2,7 @@
 
 I'm a 27-year-old Full Stack Developer & AI Engineer from Colombia with 3+ years of experience building web applications, intelligent systems, and workflow automations.
 
-Currently working at **BluRealty.AI** — the world's first AI-powered real estate company — where I build the backend infrastructure and AI pipelines that power **Pacho**, our AI Secretary.
+Currently working at **Confidential Company** — where I build the backend infrastructure and AI pipelines that power **AI Agents** and transform them at core of the company.
 
 ---
 
@@ -37,8 +37,8 @@ Currently working at **BluRealty.AI** — the world's first AI-powered real esta
 
 ## 🚀 What I'm working on
 
-- Building AI-powered real estate workflows at **BluRealty.AI**
-- Developing **Pacho** — an AI Secretary that handles WhatsApp, contracts, and knowledge retrieval for real estate agents
+- Building AI-powered real estate workflows.
+- Developing — an AI Secretary that handles WhatsApp, contracts, and knowledge retrieval for real estate agents
 - Exploring RAG pipelines, vector embeddings, and LLM orchestration
 
 ---
